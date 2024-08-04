@@ -2,4 +2,12 @@
 
 ### Complete Unity 3D Developer
 
-#### 1. Obstacle Course
+#### project: Obstacle Course
+
+Introducción de conceptos básicos
+
+<center>
+
+![gameplay](gameplay.png)
+
+</center>
